@@ -1,0 +1,1 @@
+Search.setIndex({envversion:49,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{com:0,content:0,gener:0,github:0,http:0,index:0,link:0,modul:0,mtulio:0,page:0,project:0,readthedoc:0,relat:0,search:0,sphinx:0,test:0,thi:0},titles:["Welcome to documentation"],titleterms:{document:0,indice:0,tabl:0,welcom:0}})
